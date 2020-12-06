@@ -34,7 +34,7 @@
 
 ## How to Make Red Sauce Pasta
 
-###**Prepare Sauce:**
+### **Prepare Sauce:**
 1. Cook the tomatoes in a pan.
 2. Add the clove of garlic, onion and bay leaf to it.
 3. Add water and then season with salt and sugar.
@@ -44,7 +44,7 @@
 7. Add the tomato puree. Cook till its reduces to half.
 8. Add basil leaves and keep aside.
 
-###**Prepare Pasta:**
+### **Prepare Pasta:**
 1. Boil water with salt.
 2. Add the pasta to it and let it boil. Drain when done
 3. Transfer in a serving dish and serve with the tomato sauce.
