@@ -1,4 +1,7 @@
 # MY FAVOURITE DISH
 
-**PASTA**
+## PASTA
+
+![Display picture](Photos/pasta.png)
+
 
