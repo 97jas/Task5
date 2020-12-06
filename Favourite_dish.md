@@ -13,9 +13,9 @@
 
 |**For the Tomato Sauce:**|               |**For the Pasta:**|
 |-------------------------|               |------------------|
-|1 Garlic clove           |               |110 gms pasta|        
-|1 Onion                  |               |3 cups water|
-|1/2 cup water            |               |A pinch of salt|
+|1 Garlic clove           |               |110 gms pasta     |     
+|1 Onion                  |               |3 cups water      |
+|1/2 cup water            |               |A pinch of salt   |
 |1 Bay leaf               |
 |1/2 tsp sugar            |
 |4-5 Basil leaves         |
