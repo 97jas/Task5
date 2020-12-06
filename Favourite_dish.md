@@ -8,6 +8,7 @@
 >
 >Cook Time: 1 hr   &nbsp;&nbsp;   Total Cook Time: 1 hr 10 mins
 
+**About Red Sauce Pasta Recipe:** Delicious red sauce pasta, slow cooked in tangy tomato sauce. Served in a simple, authentic Italian way. This is a great recipe for brunch or to pack in your kids tiffin. Enjoyed immensely by adults and kids alike.
 
 ## INGREDIENTS
 
