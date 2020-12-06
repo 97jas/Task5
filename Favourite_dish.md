@@ -4,9 +4,9 @@
 
 ![Display picture](Photos/pasta11.jpg)
 
->Recipe Servings: 2 &nbsp;&nbsp;  Prep Time: 10 mins
+>_Recipe Servings: 2_ &nbsp;&nbsp;  _Prep Time: 10 mins_
 >
->Cook Time: 1 hr   &nbsp;&nbsp;   Total Cook Time: 1 hr 10 mins
+>_Cook Time: 1 hr_   &nbsp;&nbsp;   _Total Cook Time: 1 hr 10 mins_
 
 ## **About Red Sauce Pasta Recipe:**
  Delicious red sauce pasta, slow cooked in tangy tomato sauce. Served in a simple, authentic Italian way. This is a great recipe for brunch or to pack in your kids tiffin. Enjoyed immensely by adults and kids alike.
@@ -48,3 +48,7 @@
 1. Boil water with salt.
 2. Add the pasta to it and let it boil. Drain when done
 3. Transfer in a serving dish and serve with the tomato sauce.
+
+## Reference Links
+
+[Click](https://www.webstaurantstore.com/guide/692/types-of-pasta.html) to know more
